@@ -1,0 +1,14 @@
+.stack-work/
+*~
+/imageCompressor
+
+**/compressed-*
+**/compressed_*
+**/*.pixels
+**/*.in
+**/*.out
+!/pixels/subjectExemple.in
+
+.vscode
+
+!/.github/**
